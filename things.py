@@ -4,6 +4,7 @@ import param
 
 class State(param.Parameterized):
     # this is global state. it only has param objects, not widgets
+    trigger = param.Event(allow_refs=True, nested_refs=True)
     color = param.String(allow_refs=True, nested_refs=True, default="ORANGE-default")
     foo = param.String(allow_refs=True, nested_refs=True, default="FOOO-default")
     bar = param.String(allow_refs=True, nested_refs=True, default="BAR-default")
