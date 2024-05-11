@@ -2,26 +2,12 @@ import uuid
 import panel as pn
 import param
 
-DEFAULTS = {}
-DEFAULTS['foo'] = "FOOOOO"
-
 class State(param.Parameterized):
     # this is global state. it only has param objects, not widgets
-    
-    trigger = param.Event(allow_refs=True, nested_refs=True)
     color = param.String(allow_refs=True, nested_refs=True, default="ORANGE-default")
     foo = param.String(allow_refs=True, nested_refs=True, default="FOOO-default")
     bar = param.String(allow_refs=True, nested_refs=True, default="BAR-default")
     thirty_seven = param.Integer(default=37)
-    shape = param.String()
-    token = param.String()
-    
-    bindings = param.Dict()
-    #bindings['trigger'] = trigger
-    #bindings['color'] = color
-    #bindings['foo'] = foo
-    #bindings['bar'] = bar
-    #bindings['shape'] = shape
     
 class GlobalStateMixin:
     @property
@@ -43,8 +29,6 @@ class Thing1(GlobalStateMixin, pn.viewable.Viewer):
         #self.color.value = self.app.state.color
         #self.bar.value = self.app.state.bar
         #self.thirty_seven.value = self.app.state.thirty_seven
-        
-        
 
     # the function below will listen for updates on any of the widgets
     # note that callbacks do not return any values. functions that have watch=True should
