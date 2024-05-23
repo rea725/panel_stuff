@@ -1,500 +1,500 @@
-'AWS', 'ARM', 'Node Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.5803041825085
-'AWS', 'ARM', 'Node Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.1455513309885
-'AWS', 'ARM', 'Node Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.5890342205323
-'AWS', 'ARM', 'Node Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 8.0277158785819
-'AWS', 'ARM', 'Node Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.0
-'AWS', 'ARM', 'density', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 27.391289528519
-'AWS', 'ARM', 'density', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 15.449878581948
-'AWS', 'ARM', 'density', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 8.2790084230451
-'AWS', 'ARM', 'density', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 40.718991873118
-'AWS', 'ARM', 'density', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 3.7
-'AWS', 'ARM', 'weight', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 2.8301441788352
-'AWS', 'ARM', 'weight', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 1.9174410747388
-'AWS', 'ARM', 'weight', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 1.0287799137919
-'AWS', 'ARM', 'weight', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 4.5133098849808
-'AWS', 'ARM', 'weight', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.4
-'AWS', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 10.070417777779
-'AWS', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 7.4377538823854
-'AWS', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 4.5513043498271
-'AWS', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 13.538823854393
-'AWS', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 2.0
-'AWS', 'Intel', 'Node Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.5803041825085
-'AWS', 'Intel', 'Node Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.1455513309885
-'AWS', 'Intel', 'Node Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.5890342205323
-'AWS', 'Intel', 'Node Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 8.0277158785819
-'AWS', 'Intel', 'Node Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.0
-'AWS', 'Intel', 'density', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 27.391289528519
-'AWS', 'Intel', 'density', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 15.449878581948
-'AWS', 'Intel', 'density', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 8.2790084230451
-'AWS', 'Intel', 'density', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 40.718991873118
-'AWS', 'Intel', 'density', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 3.7
-'AWS', 'Intel', 'weight', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 2.8301441788352
-'AWS', 'Intel', 'weight', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 1.9174410747388
-'AWS', 'Intel', 'weight', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 1.0287799137919
-'AWS', 'Intel', 'weight', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 4.5133098849808
-'AWS', 'Intel', 'weight', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.4
-'AWS', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'AWS', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 10.070417777779
-'AWS', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 7.4377538823854
-'AWS', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 4.5513043498271
-'AWS', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 13.538823854393
-'AWS', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 2.0
-'Azure', 'ARM', 'Node Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.5803041825085
-'Azure', 'ARM', 'Node Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.1455513309885
-'Azure', 'ARM', 'Node Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.5890342205323
-'Azure', 'ARM', 'Node Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 8.0277158785819
-'Azure', 'ARM', 'Node Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.0
-'Azure', 'ARM', 'density', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 37.859082075827
-'Azure', 'ARM', 'density', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 21.580414219895
-'Azure', 'ARM', 'density', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 12.851991488898
-'Azure', 'ARM', 'density', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 57.991075852832
-'Azure', 'ARM', 'density', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 5.0314393532
-'Azure', 'ARM', 'weight', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.0852324519785
-'Azure', 'ARM', 'weight', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.3888348131083
-'Azure', 'ARM', 'weight', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 1.4380859210899
-'Azure', 'ARM', 'weight', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 7.3098872178824
-'Azure', 'ARM', 'weight', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.5580485848
-'Azure', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 10.070417777779
-'Azure', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 7.4377538823854
-'Azure', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 4.5513043498271
-'Azure', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 13.538823854393
-'Azure', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 2.0
-'Azure', 'Intel', 'Node Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.5803041825085
-'Azure', 'Intel', 'Node Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.1455513309885
-'Azure', 'Intel', 'Node Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.5890342205323
-'Azure', 'Intel', 'Node Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 8.0277158785819
-'Azure', 'Intel', 'Node Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.0
-'Azure', 'Intel', 'density', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 37.859082075827
-'Azure', 'Intel', 'density', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 21.580414219895
-'Azure', 'Intel', 'density', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 12.851991488898
-'Azure', 'Intel', 'density', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 57.991075852832
-'Azure', 'Intel', 'density', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 5.0314393532
-'Azure', 'Intel', 'weight', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 4.0852324519785
-'Azure', 'Intel', 'weight', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 2.3888348131083
-'Azure', 'Intel', 'weight', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 1.4380859210899
-'Azure', 'Intel', 'weight', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 7.3098872178824
-'Azure', 'Intel', 'weight', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.5580485848
-'Azure', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 0.2
-'Azure', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q1', '2023_Q1', '2023', 10.070417777779
-'Azure', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q1', '2023_Q1', '2023', 7.4377538823854
-'Azure', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q1', '2023_Q1', '2023', 4.5513043498271
-'Azure', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q1', '2023_Q1', '2023', 13.538823854393
-'Azure', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q1', '2023_Q1', '2023', 2.0
-'AWS', 'ARM', 'Node Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.5803041825085
-'AWS', 'ARM', 'Node Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.1455513309885
-'AWS', 'ARM', 'Node Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.5890342205323
-'AWS', 'ARM', 'Node Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 8.0277158785819
-'AWS', 'ARM', 'Node Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.0
-'AWS', 'ARM', 'density', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 27.391289528519
-'AWS', 'ARM', 'density', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 15.449878581948
-'AWS', 'ARM', 'density', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 8.2790084230451
-'AWS', 'ARM', 'density', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 40.718991873118
-'AWS', 'ARM', 'density', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 3.7
-'AWS', 'ARM', 'weight', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 2.8301441788352
-'AWS', 'ARM', 'weight', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 1.9174410747388
-'AWS', 'ARM', 'weight', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 1.0287799137919
-'AWS', 'ARM', 'weight', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 4.5133098849808
-'AWS', 'ARM', 'weight', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.4
-'AWS', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 10.070417777779
-'AWS', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 7.4377538823854
-'AWS', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 4.5513043498271
-'AWS', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 13.538823854393
-'AWS', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 2.0
-'AWS', 'Intel', 'Node Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.5803041825085
-'AWS', 'Intel', 'Node Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.1455513309885
-'AWS', 'Intel', 'Node Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.5890342205323
-'AWS', 'Intel', 'Node Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 8.0277158785819
-'AWS', 'Intel', 'Node Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.0
-'AWS', 'Intel', 'density', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 27.391289528519
-'AWS', 'Intel', 'density', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 15.449878581948
-'AWS', 'Intel', 'density', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 8.2790084230451
-'AWS', 'Intel', 'density', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 40.718991873118
-'AWS', 'Intel', 'density', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 3.7
-'AWS', 'Intel', 'weight', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 2.8301441788352
-'AWS', 'Intel', 'weight', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 1.9174410747388
-'AWS', 'Intel', 'weight', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 1.0287799137919
-'AWS', 'Intel', 'weight', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 4.5133098849808
-'AWS', 'Intel', 'weight', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.4
-'AWS', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'AWS', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 10.070417777779
-'AWS', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 7.4377538823854
-'AWS', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 4.5513043498271
-'AWS', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 13.538823854393
-'AWS', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 2.0
-'Azure', 'ARM', 'Node Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.5803041825085
-'Azure', 'ARM', 'Node Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.1455513309885
-'Azure', 'ARM', 'Node Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.5890342205323
-'Azure', 'ARM', 'Node Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 8.0277158785819
-'Azure', 'ARM', 'Node Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.0
-'Azure', 'ARM', 'density', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 37.859082075827
-'Azure', 'ARM', 'density', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 21.580414219895
-'Azure', 'ARM', 'density', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 12.851991488898
-'Azure', 'ARM', 'density', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 57.991075852832
-'Azure', 'ARM', 'density', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 5.0314393532
-'Azure', 'ARM', 'weight', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.0852324519785
-'Azure', 'ARM', 'weight', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.3888348131083
-'Azure', 'ARM', 'weight', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 1.4380859210899
-'Azure', 'ARM', 'weight', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 7.3098872178824
-'Azure', 'ARM', 'weight', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.5580485848
-'Azure', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 10.070417777779
-'Azure', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 7.4377538823854
-'Azure', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 4.5513043498271
-'Azure', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 13.538823854393
-'Azure', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 2.0
-'Azure', 'Intel', 'Node Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.5803041825085
-'Azure', 'Intel', 'Node Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.1455513309885
-'Azure', 'Intel', 'Node Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.5890342205323
-'Azure', 'Intel', 'Node Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 8.0277158785819
-'Azure', 'Intel', 'Node Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.0
-'Azure', 'Intel', 'density', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 37.859082075827
-'Azure', 'Intel', 'density', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 21.580414219895
-'Azure', 'Intel', 'density', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 12.851991488898
-'Azure', 'Intel', 'density', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 57.991075852832
-'Azure', 'Intel', 'density', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 5.0314393532
-'Azure', 'Intel', 'weight', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 4.0852324519785
-'Azure', 'Intel', 'weight', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 2.3888348131083
-'Azure', 'Intel', 'weight', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 1.4380859210899
-'Azure', 'Intel', 'weight', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 7.3098872178824
-'Azure', 'Intel', 'weight', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.5580485848
-'Azure', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 0.2
-'Azure', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q2', '2023_Q2', '2023', 10.070417777779
-'Azure', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q2', '2023_Q2', '2023', 7.4377538823854
-'Azure', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q2', '2023_Q2', '2023', 4.5513043498271
-'Azure', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q2', '2023_Q2', '2023', 13.538823854393
-'Azure', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q2', '2023_Q2', '2023', 2.0
-'AWS', 'ARM', 'Node Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.5803041825085
-'AWS', 'ARM', 'Node Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.1455513309885
-'AWS', 'ARM', 'Node Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.5890342205323
-'AWS', 'ARM', 'Node Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 8.0277158785819
-'AWS', 'ARM', 'Node Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.0
-'AWS', 'ARM', 'density', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 27.391289528519
-'AWS', 'ARM', 'density', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 15.449878581948
-'AWS', 'ARM', 'density', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 8.2790084230451
-'AWS', 'ARM', 'density', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 40.718991873118
-'AWS', 'ARM', 'density', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 3.7
-'AWS', 'ARM', 'weight', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 2.8301441788352
-'AWS', 'ARM', 'weight', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 1.9174410747388
-'AWS', 'ARM', 'weight', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 1.0287799137919
-'AWS', 'ARM', 'weight', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 4.5133098849808
-'AWS', 'ARM', 'weight', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.4
-'AWS', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 10.070417777779
-'AWS', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 7.4377538823854
-'AWS', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 4.5513043498271
-'AWS', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 13.538823854393
-'AWS', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 2.0
-'AWS', 'Intel', 'Node Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.5803041825085
-'AWS', 'Intel', 'Node Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.1455513309885
-'AWS', 'Intel', 'Node Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.5890342205323
-'AWS', 'Intel', 'Node Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 8.0277158785819
-'AWS', 'Intel', 'Node Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.0
-'AWS', 'Intel', 'density', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 27.391289528519
-'AWS', 'Intel', 'density', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 15.449878581948
-'AWS', 'Intel', 'density', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 8.2790084230451
-'AWS', 'Intel', 'density', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 40.718991873118
-'AWS', 'Intel', 'density', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 3.7
-'AWS', 'Intel', 'weight', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 2.8301441788352
-'AWS', 'Intel', 'weight', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 1.9174410747388
-'AWS', 'Intel', 'weight', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 1.0287799137919
-'AWS', 'Intel', 'weight', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 4.5133098849808
-'AWS', 'Intel', 'weight', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.4
-'AWS', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'AWS', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 10.070417777779
-'AWS', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 7.4377538823854
-'AWS', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 4.5513043498271
-'AWS', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 13.538823854393
-'AWS', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 2.0
-'Azure', 'ARM', 'Node Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.5803041825085
-'Azure', 'ARM', 'Node Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.1455513309885
-'Azure', 'ARM', 'Node Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.5890342205323
-'Azure', 'ARM', 'Node Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 8.0277158785819
-'Azure', 'ARM', 'Node Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.0
-'Azure', 'ARM', 'density', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 37.859082075827
-'Azure', 'ARM', 'density', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 21.580414219895
-'Azure', 'ARM', 'density', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 12.851991488898
-'Azure', 'ARM', 'density', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 57.991075852832
-'Azure', 'ARM', 'density', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 5.0314393532
-'Azure', 'ARM', 'weight', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.0852324519785
-'Azure', 'ARM', 'weight', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.3888348131083
-'Azure', 'ARM', 'weight', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 1.4380859210899
-'Azure', 'ARM', 'weight', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 7.3098872178824
-'Azure', 'ARM', 'weight', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.5580485848
-'Azure', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marmarketshare - corn', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - coconuts', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'marketshare - ducks', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'ARM', 'Bushel Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 10.070417777779
-'Azure', 'ARM', 'Bushel Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 7.4377538823854
-'Azure', 'ARM', 'Bushel Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 4.5513043498271
-'Azure', 'ARM', 'Bushel Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 13.538823854393
-'Azure', 'ARM', 'Bushel Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 2.0
-'Azure', 'Intel', 'Node Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.5803041825085
-'Azure', 'Intel', 'Node Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.1455513309885
-'Azure', 'Intel', 'Node Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.5890342205323
-'Azure', 'Intel', 'Node Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 8.0277158785819
-'Azure', 'Intel', 'Node Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.0
-'Azure', 'Intel', 'density', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 37.859082075827
-'Azure', 'Intel', 'density', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 21.580414219895
-'Azure', 'Intel', 'density', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 12.851991488898
-'Azure', 'Intel', 'density', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 57.991075852832
-'Azure', 'Intel', 'density', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 5.0314393532
-'Azure', 'Intel', 'weight', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 4.0852324519785
-'Azure', 'Intel', 'weight', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 2.3888348131083
-'Azure', 'Intel', 'weight', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 1.4380859210899
-'Azure', 'Intel', 'weight', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 7.3098872178824
-'Azure', 'Intel', 'weight', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.5580485848
-'Azure', 'Intel', 'marketshare - apples', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - apples', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marmarketshare - corn', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - coconuts', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'marketshare - ducks', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 0.2
-'Azure', 'Intel', 'Bushel Count', 'L', 'PER_2023_Q3', '2023_Q3', '2023', 10.070417777779
-'Azure', 'Intel', 'Bushel Count', 'M', 'PER_2023_Q3', '2023_Q3', '2023', 7.4377538823854
-'Azure', 'Intel', 'Bushel Count', 'S', 'PER_2023_Q3', '2023_Q3', '2023', 4.5513043498271
-'Azure', 'Intel', 'Bushel Count', 'XL', 'PER_2023_Q3', '2023_Q3', '2023', 13.538823854393
-'Azure', 'Intel', 'Bushel Count', 'XS', 'PER_2023_Q3', '2023_Q3', '2023', 2.0
-'AWS', 'ARM', 'Node Count', 'L', 'PER_2023_Q4', '2023_Q4', '2023', 4.5803041825085
-'AWS', 'ARM', 'Node Count', 'M', 'PER_2023_Q4', '2023_Q4', '2023', 2.1455513309885
-'AWS', 'ARM', 'Node Count', 'S', 'PER_2023_Q4', '2023_Q4', '2023', 0.5890342205323
-'AWS', 'ARM', 'Node Count', 'XL', 'PER_2023_Q4', '2023_Q4', '2023', 8.0277158785819
-'AWS', 'ARM', 'Node Count', 'XS', 'PER_2023_Q4', '2023_Q4', '2023', 0.0
-'AWS', 'ARM', 'density', 'L', 'PER_2023_Q4', '2023_Q4', '2023', 27.391289528519
-'AWS', 'ARM', 'density', 'M', 'PER_2023_Q4', '2023_Q4', '2023', 15.449878581948
-'AWS', 'ARM', 'density', 'S', 'PER_2023_Q4', '2023_Q4', '2023', 8.2790084230451
-'AWS', 'ARM', 'density', 'XL', 'PER_2023_Q4', '2023_Q4', '2023', 40.718991873118
-'AWS', 'ARM', 'density', 'XS', 'PER_2023_Q4', '2023_Q4', '2023', 3.7
-'AWS', 'ARM', 'weight', 'L', 'PER_2023_Q4', '2023_Q4', '2023', 2.8301441788352
-'AWS', 'ARM', 'weight', 'M', 'PER_2023_Q4', '2023_Q4', '2023', 1.9174410747388
-'AWS', 'ARM', 'weight', 'S', 'PER_2023_Q4', '2023_Q4', '2023', 1.0287799137919
-'AWS', 'ARM', 'weight', 'XL', 'PER_2023_Q4', '2023_Q4', '2023', 4.5133098849808
-'AWS', 'ARM', 'weight', 'XS', 'PER_2023_Q4', '2023_Q4', '2023', 0.4
-'AWS', 'ARM', 'marketshare - apples', 'L', 'PER_2023_Q4', '2023_Q4', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'M', 'PER_2023_Q4', '2023_Q4', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'S', 'PER_2023_Q4', '2023_Q4', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XL', 'PER_2023_Q4', '2023_Q4', '2023', 0.2
-'AWS', 'ARM', 'marketshare - apples', 'XS', 'PER_2023_Q4', '2023_Q4', '2023', 0.2
+AWS,ARM,Node Count,L,PER_2023_Q1,2023_Q1,2023,4.5803041825085
+AWS,ARM,Node Count,M,PER_2023_Q1,2023_Q1,2023,2.1455513309885
+AWS,ARM,Node Count,S,PER_2023_Q1,2023_Q1,2023,0.5890342205323
+AWS,ARM,Node Count,XL,PER_2023_Q1,2023_Q1,2023,8.0277158785819
+AWS,ARM,Node Count,XS,PER_2023_Q1,2023_Q1,2023,0.0
+AWS,ARM,density,L,PER_2023_Q1,2023_Q1,2023,27.391289528519
+AWS,ARM,density,M,PER_2023_Q1,2023_Q1,2023,15.449878581948
+AWS,ARM,density,S,PER_2023_Q1,2023_Q1,2023,8.2790084230451
+AWS,ARM,density,XL,PER_2023_Q1,2023_Q1,2023,40.718991873118
+AWS,ARM,density,XS,PER_2023_Q1,2023_Q1,2023,3.7
+AWS,ARM,weight,L,PER_2023_Q1,2023_Q1,2023,2.8301441788352
+AWS,ARM,weight,M,PER_2023_Q1,2023_Q1,2023,1.9174410747388
+AWS,ARM,weight,S,PER_2023_Q1,2023_Q1,2023,1.0287799137919
+AWS,ARM,weight,XL,PER_2023_Q1,2023_Q1,2023,4.5133098849808
+AWS,ARM,weight,XS,PER_2023_Q1,2023_Q1,2023,0.4
+AWS,ARM,marketshare - apples,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - apples,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - apples,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - apples,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - apples,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marmarketshare - corn,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marmarketshare - corn,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marmarketshare - corn,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marmarketshare - corn,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marmarketshare - corn,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - coconuts,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - coconuts,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - coconuts,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - coconuts,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - coconuts,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - ducks,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - ducks,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - ducks,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - ducks,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,marketshare - ducks,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,ARM,Bushel Count,L,PER_2023_Q1,2023_Q1,2023,10.070417777779
+AWS,ARM,Bushel Count,M,PER_2023_Q1,2023_Q1,2023,7.4377538823854
+AWS,ARM,Bushel Count,S,PER_2023_Q1,2023_Q1,2023,4.5513043498271
+AWS,ARM,Bushel Count,XL,PER_2023_Q1,2023_Q1,2023,13.538823854393
+AWS,ARM,Bushel Count,XS,PER_2023_Q1,2023_Q1,2023,2.0
+AWS,Intel,Node Count,L,PER_2023_Q1,2023_Q1,2023,4.5803041825085
+AWS,Intel,Node Count,M,PER_2023_Q1,2023_Q1,2023,2.1455513309885
+AWS,Intel,Node Count,S,PER_2023_Q1,2023_Q1,2023,0.5890342205323
+AWS,Intel,Node Count,XL,PER_2023_Q1,2023_Q1,2023,8.0277158785819
+AWS,Intel,Node Count,XS,PER_2023_Q1,2023_Q1,2023,0.0
+AWS,Intel,density,L,PER_2023_Q1,2023_Q1,2023,27.391289528519
+AWS,Intel,density,M,PER_2023_Q1,2023_Q1,2023,15.449878581948
+AWS,Intel,density,S,PER_2023_Q1,2023_Q1,2023,8.2790084230451
+AWS,Intel,density,XL,PER_2023_Q1,2023_Q1,2023,40.718991873118
+AWS,Intel,density,XS,PER_2023_Q1,2023_Q1,2023,3.7
+AWS,Intel,weight,L,PER_2023_Q1,2023_Q1,2023,2.8301441788352
+AWS,Intel,weight,M,PER_2023_Q1,2023_Q1,2023,1.9174410747388
+AWS,Intel,weight,S,PER_2023_Q1,2023_Q1,2023,1.0287799137919
+AWS,Intel,weight,XL,PER_2023_Q1,2023_Q1,2023,4.5133098849808
+AWS,Intel,weight,XS,PER_2023_Q1,2023_Q1,2023,0.4
+AWS,Intel,marketshare - apples,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - apples,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - apples,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - apples,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - apples,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marmarketshare - corn,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marmarketshare - corn,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marmarketshare - corn,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marmarketshare - corn,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marmarketshare - corn,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - coconuts,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - coconuts,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - coconuts,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - coconuts,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - coconuts,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - ducks,L,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - ducks,M,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - ducks,S,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - ducks,XL,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,marketshare - ducks,XS,PER_2023_Q1,2023_Q1,2023,0.2
+AWS,Intel,Bushel Count,L,PER_2023_Q1,2023_Q1,2023,10.070417777779
+AWS,Intel,Bushel Count,M,PER_2023_Q1,2023_Q1,2023,7.4377538823854
+AWS,Intel,Bushel Count,S,PER_2023_Q1,2023_Q1,2023,4.5513043498271
+AWS,Intel,Bushel Count,XL,PER_2023_Q1,2023_Q1,2023,13.538823854393
+AWS,Intel,Bushel Count,XS,PER_2023_Q1,2023_Q1,2023,2.0
+Azure,ARM,Node Count,L,PER_2023_Q1,2023_Q1,2023,4.5803041825085
+Azure,ARM,Node Count,M,PER_2023_Q1,2023_Q1,2023,2.1455513309885
+Azure,ARM,Node Count,S,PER_2023_Q1,2023_Q1,2023,0.5890342205323
+Azure,ARM,Node Count,XL,PER_2023_Q1,2023_Q1,2023,8.0277158785819
+Azure,ARM,Node Count,XS,PER_2023_Q1,2023_Q1,2023,0.0
+Azure,ARM,density,L,PER_2023_Q1,2023_Q1,2023,37.859082075827
+Azure,ARM,density,M,PER_2023_Q1,2023_Q1,2023,21.580414219895
+Azure,ARM,density,S,PER_2023_Q1,2023_Q1,2023,12.851991488898
+Azure,ARM,density,XL,PER_2023_Q1,2023_Q1,2023,57.991075852832
+Azure,ARM,density,XS,PER_2023_Q1,2023_Q1,2023,5.0314393532
+Azure,ARM,weight,L,PER_2023_Q1,2023_Q1,2023,4.0852324519785
+Azure,ARM,weight,M,PER_2023_Q1,2023_Q1,2023,2.3888348131083
+Azure,ARM,weight,S,PER_2023_Q1,2023_Q1,2023,1.4380859210899
+Azure,ARM,weight,XL,PER_2023_Q1,2023_Q1,2023,7.3098872178824
+Azure,ARM,weight,XS,PER_2023_Q1,2023_Q1,2023,0.5580485848
+Azure,ARM,marketshare - apples,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - apples,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - apples,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - apples,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - apples,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marmarketshare - corn,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marmarketshare - corn,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marmarketshare - corn,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marmarketshare - corn,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marmarketshare - corn,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - coconuts,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - coconuts,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - coconuts,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - coconuts,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - coconuts,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - ducks,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - ducks,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - ducks,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - ducks,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,marketshare - ducks,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,ARM,Bushel Count,L,PER_2023_Q1,2023_Q1,2023,10.070417777779
+Azure,ARM,Bushel Count,M,PER_2023_Q1,2023_Q1,2023,7.4377538823854
+Azure,ARM,Bushel Count,S,PER_2023_Q1,2023_Q1,2023,4.5513043498271
+Azure,ARM,Bushel Count,XL,PER_2023_Q1,2023_Q1,2023,13.538823854393
+Azure,ARM,Bushel Count,XS,PER_2023_Q1,2023_Q1,2023,2.0
+Azure,Intel,Node Count,L,PER_2023_Q1,2023_Q1,2023,4.5803041825085
+Azure,Intel,Node Count,M,PER_2023_Q1,2023_Q1,2023,2.1455513309885
+Azure,Intel,Node Count,S,PER_2023_Q1,2023_Q1,2023,0.5890342205323
+Azure,Intel,Node Count,XL,PER_2023_Q1,2023_Q1,2023,8.0277158785819
+Azure,Intel,Node Count,XS,PER_2023_Q1,2023_Q1,2023,0.0
+Azure,Intel,density,L,PER_2023_Q1,2023_Q1,2023,37.859082075827
+Azure,Intel,density,M,PER_2023_Q1,2023_Q1,2023,21.580414219895
+Azure,Intel,density,S,PER_2023_Q1,2023_Q1,2023,12.851991488898
+Azure,Intel,density,XL,PER_2023_Q1,2023_Q1,2023,57.991075852832
+Azure,Intel,density,XS,PER_2023_Q1,2023_Q1,2023,5.0314393532
+Azure,Intel,weight,L,PER_2023_Q1,2023_Q1,2023,4.0852324519785
+Azure,Intel,weight,M,PER_2023_Q1,2023_Q1,2023,2.3888348131083
+Azure,Intel,weight,S,PER_2023_Q1,2023_Q1,2023,1.4380859210899
+Azure,Intel,weight,XL,PER_2023_Q1,2023_Q1,2023,7.3098872178824
+Azure,Intel,weight,XS,PER_2023_Q1,2023_Q1,2023,0.5580485848
+Azure,Intel,marketshare - apples,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - apples,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - apples,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - apples,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - apples,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marmarketshare - corn,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marmarketshare - corn,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marmarketshare - corn,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marmarketshare - corn,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marmarketshare - corn,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - coconuts,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - coconuts,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - coconuts,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - coconuts,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - coconuts,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - ducks,L,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - ducks,M,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - ducks,S,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - ducks,XL,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,marketshare - ducks,XS,PER_2023_Q1,2023_Q1,2023,0.2
+Azure,Intel,Bushel Count,L,PER_2023_Q1,2023_Q1,2023,10.070417777779
+Azure,Intel,Bushel Count,M,PER_2023_Q1,2023_Q1,2023,7.4377538823854
+Azure,Intel,Bushel Count,S,PER_2023_Q1,2023_Q1,2023,4.5513043498271
+Azure,Intel,Bushel Count,XL,PER_2023_Q1,2023_Q1,2023,13.538823854393
+Azure,Intel,Bushel Count,XS,PER_2023_Q1,2023_Q1,2023,2.0
+AWS,ARM,Node Count,L,PER_2023_Q2,2023_Q2,2023,4.5803041825085
+AWS,ARM,Node Count,M,PER_2023_Q2,2023_Q2,2023,2.1455513309885
+AWS,ARM,Node Count,S,PER_2023_Q2,2023_Q2,2023,0.5890342205323
+AWS,ARM,Node Count,XL,PER_2023_Q2,2023_Q2,2023,8.0277158785819
+AWS,ARM,Node Count,XS,PER_2023_Q2,2023_Q2,2023,0.0
+AWS,ARM,density,L,PER_2023_Q2,2023_Q2,2023,27.391289528519
+AWS,ARM,density,M,PER_2023_Q2,2023_Q2,2023,15.449878581948
+AWS,ARM,density,S,PER_2023_Q2,2023_Q2,2023,8.2790084230451
+AWS,ARM,density,XL,PER_2023_Q2,2023_Q2,2023,40.718991873118
+AWS,ARM,density,XS,PER_2023_Q2,2023_Q2,2023,3.7
+AWS,ARM,weight,L,PER_2023_Q2,2023_Q2,2023,2.8301441788352
+AWS,ARM,weight,M,PER_2023_Q2,2023_Q2,2023,1.9174410747388
+AWS,ARM,weight,S,PER_2023_Q2,2023_Q2,2023,1.0287799137919
+AWS,ARM,weight,XL,PER_2023_Q2,2023_Q2,2023,4.5133098849808
+AWS,ARM,weight,XS,PER_2023_Q2,2023_Q2,2023,0.4
+AWS,ARM,marketshare - apples,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - apples,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - apples,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - apples,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - apples,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marmarketshare - corn,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marmarketshare - corn,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marmarketshare - corn,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marmarketshare - corn,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marmarketshare - corn,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - coconuts,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - coconuts,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - coconuts,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - coconuts,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - coconuts,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - ducks,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - ducks,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - ducks,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - ducks,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,marketshare - ducks,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,ARM,Bushel Count,L,PER_2023_Q2,2023_Q2,2023,10.070417777779
+AWS,ARM,Bushel Count,M,PER_2023_Q2,2023_Q2,2023,7.4377538823854
+AWS,ARM,Bushel Count,S,PER_2023_Q2,2023_Q2,2023,4.5513043498271
+AWS,ARM,Bushel Count,XL,PER_2023_Q2,2023_Q2,2023,13.538823854393
+AWS,ARM,Bushel Count,XS,PER_2023_Q2,2023_Q2,2023,2.0
+AWS,Intel,Node Count,L,PER_2023_Q2,2023_Q2,2023,4.5803041825085
+AWS,Intel,Node Count,M,PER_2023_Q2,2023_Q2,2023,2.1455513309885
+AWS,Intel,Node Count,S,PER_2023_Q2,2023_Q2,2023,0.5890342205323
+AWS,Intel,Node Count,XL,PER_2023_Q2,2023_Q2,2023,8.0277158785819
+AWS,Intel,Node Count,XS,PER_2023_Q2,2023_Q2,2023,0.0
+AWS,Intel,density,L,PER_2023_Q2,2023_Q2,2023,27.391289528519
+AWS,Intel,density,M,PER_2023_Q2,2023_Q2,2023,15.449878581948
+AWS,Intel,density,S,PER_2023_Q2,2023_Q2,2023,8.2790084230451
+AWS,Intel,density,XL,PER_2023_Q2,2023_Q2,2023,40.718991873118
+AWS,Intel,density,XS,PER_2023_Q2,2023_Q2,2023,3.7
+AWS,Intel,weight,L,PER_2023_Q2,2023_Q2,2023,2.8301441788352
+AWS,Intel,weight,M,PER_2023_Q2,2023_Q2,2023,1.9174410747388
+AWS,Intel,weight,S,PER_2023_Q2,2023_Q2,2023,1.0287799137919
+AWS,Intel,weight,XL,PER_2023_Q2,2023_Q2,2023,4.5133098849808
+AWS,Intel,weight,XS,PER_2023_Q2,2023_Q2,2023,0.4
+AWS,Intel,marketshare - apples,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - apples,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - apples,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - apples,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - apples,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marmarketshare - corn,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marmarketshare - corn,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marmarketshare - corn,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marmarketshare - corn,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marmarketshare - corn,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - coconuts,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - coconuts,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - coconuts,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - coconuts,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - coconuts,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - ducks,L,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - ducks,M,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - ducks,S,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - ducks,XL,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,marketshare - ducks,XS,PER_2023_Q2,2023_Q2,2023,0.2
+AWS,Intel,Bushel Count,L,PER_2023_Q2,2023_Q2,2023,10.070417777779
+AWS,Intel,Bushel Count,M,PER_2023_Q2,2023_Q2,2023,7.4377538823854
+AWS,Intel,Bushel Count,S,PER_2023_Q2,2023_Q2,2023,4.5513043498271
+AWS,Intel,Bushel Count,XL,PER_2023_Q2,2023_Q2,2023,13.538823854393
+AWS,Intel,Bushel Count,XS,PER_2023_Q2,2023_Q2,2023,2.0
+Azure,ARM,Node Count,L,PER_2023_Q2,2023_Q2,2023,4.5803041825085
+Azure,ARM,Node Count,M,PER_2023_Q2,2023_Q2,2023,2.1455513309885
+Azure,ARM,Node Count,S,PER_2023_Q2,2023_Q2,2023,0.5890342205323
+Azure,ARM,Node Count,XL,PER_2023_Q2,2023_Q2,2023,8.0277158785819
+Azure,ARM,Node Count,XS,PER_2023_Q2,2023_Q2,2023,0.0
+Azure,ARM,density,L,PER_2023_Q2,2023_Q2,2023,37.859082075827
+Azure,ARM,density,M,PER_2023_Q2,2023_Q2,2023,21.580414219895
+Azure,ARM,density,S,PER_2023_Q2,2023_Q2,2023,12.851991488898
+Azure,ARM,density,XL,PER_2023_Q2,2023_Q2,2023,57.991075852832
+Azure,ARM,density,XS,PER_2023_Q2,2023_Q2,2023,5.0314393532
+Azure,ARM,weight,L,PER_2023_Q2,2023_Q2,2023,4.0852324519785
+Azure,ARM,weight,M,PER_2023_Q2,2023_Q2,2023,2.3888348131083
+Azure,ARM,weight,S,PER_2023_Q2,2023_Q2,2023,1.4380859210899
+Azure,ARM,weight,XL,PER_2023_Q2,2023_Q2,2023,7.3098872178824
+Azure,ARM,weight,XS,PER_2023_Q2,2023_Q2,2023,0.5580485848
+Azure,ARM,marketshare - apples,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - apples,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - apples,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - apples,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - apples,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marmarketshare - corn,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marmarketshare - corn,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marmarketshare - corn,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marmarketshare - corn,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marmarketshare - corn,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - coconuts,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - coconuts,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - coconuts,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - coconuts,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - coconuts,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - ducks,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - ducks,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - ducks,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - ducks,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,marketshare - ducks,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,ARM,Bushel Count,L,PER_2023_Q2,2023_Q2,2023,10.070417777779
+Azure,ARM,Bushel Count,M,PER_2023_Q2,2023_Q2,2023,7.4377538823854
+Azure,ARM,Bushel Count,S,PER_2023_Q2,2023_Q2,2023,4.5513043498271
+Azure,ARM,Bushel Count,XL,PER_2023_Q2,2023_Q2,2023,13.538823854393
+Azure,ARM,Bushel Count,XS,PER_2023_Q2,2023_Q2,2023,2.0
+Azure,Intel,Node Count,L,PER_2023_Q2,2023_Q2,2023,4.5803041825085
+Azure,Intel,Node Count,M,PER_2023_Q2,2023_Q2,2023,2.1455513309885
+Azure,Intel,Node Count,S,PER_2023_Q2,2023_Q2,2023,0.5890342205323
+Azure,Intel,Node Count,XL,PER_2023_Q2,2023_Q2,2023,8.0277158785819
+Azure,Intel,Node Count,XS,PER_2023_Q2,2023_Q2,2023,0.0
+Azure,Intel,density,L,PER_2023_Q2,2023_Q2,2023,37.859082075827
+Azure,Intel,density,M,PER_2023_Q2,2023_Q2,2023,21.580414219895
+Azure,Intel,density,S,PER_2023_Q2,2023_Q2,2023,12.851991488898
+Azure,Intel,density,XL,PER_2023_Q2,2023_Q2,2023,57.991075852832
+Azure,Intel,density,XS,PER_2023_Q2,2023_Q2,2023,5.0314393532
+Azure,Intel,weight,L,PER_2023_Q2,2023_Q2,2023,4.0852324519785
+Azure,Intel,weight,M,PER_2023_Q2,2023_Q2,2023,2.3888348131083
+Azure,Intel,weight,S,PER_2023_Q2,2023_Q2,2023,1.4380859210899
+Azure,Intel,weight,XL,PER_2023_Q2,2023_Q2,2023,7.3098872178824
+Azure,Intel,weight,XS,PER_2023_Q2,2023_Q2,2023,0.5580485848
+Azure,Intel,marketshare - apples,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - apples,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - apples,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - apples,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - apples,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marmarketshare - corn,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marmarketshare - corn,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marmarketshare - corn,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marmarketshare - corn,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marmarketshare - corn,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - coconuts,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - coconuts,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - coconuts,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - coconuts,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - coconuts,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - ducks,L,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - ducks,M,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - ducks,S,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - ducks,XL,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,marketshare - ducks,XS,PER_2023_Q2,2023_Q2,2023,0.2
+Azure,Intel,Bushel Count,L,PER_2023_Q2,2023_Q2,2023,10.070417777779
+Azure,Intel,Bushel Count,M,PER_2023_Q2,2023_Q2,2023,7.4377538823854
+Azure,Intel,Bushel Count,S,PER_2023_Q2,2023_Q2,2023,4.5513043498271
+Azure,Intel,Bushel Count,XL,PER_2023_Q2,2023_Q2,2023,13.538823854393
+Azure,Intel,Bushel Count,XS,PER_2023_Q2,2023_Q2,2023,2.0
+AWS,ARM,Node Count,L,PER_2023_Q3,2023_Q3,2023,4.5803041825085
+AWS,ARM,Node Count,M,PER_2023_Q3,2023_Q3,2023,2.1455513309885
+AWS,ARM,Node Count,S,PER_2023_Q3,2023_Q3,2023,0.5890342205323
+AWS,ARM,Node Count,XL,PER_2023_Q3,2023_Q3,2023,8.0277158785819
+AWS,ARM,Node Count,XS,PER_2023_Q3,2023_Q3,2023,0.0
+AWS,ARM,density,L,PER_2023_Q3,2023_Q3,2023,27.391289528519
+AWS,ARM,density,M,PER_2023_Q3,2023_Q3,2023,15.449878581948
+AWS,ARM,density,S,PER_2023_Q3,2023_Q3,2023,8.2790084230451
+AWS,ARM,density,XL,PER_2023_Q3,2023_Q3,2023,40.718991873118
+AWS,ARM,density,XS,PER_2023_Q3,2023_Q3,2023,3.7
+AWS,ARM,weight,L,PER_2023_Q3,2023_Q3,2023,2.8301441788352
+AWS,ARM,weight,M,PER_2023_Q3,2023_Q3,2023,1.9174410747388
+AWS,ARM,weight,S,PER_2023_Q3,2023_Q3,2023,1.0287799137919
+AWS,ARM,weight,XL,PER_2023_Q3,2023_Q3,2023,4.5133098849808
+AWS,ARM,weight,XS,PER_2023_Q3,2023_Q3,2023,0.4
+AWS,ARM,marketshare - apples,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - apples,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - apples,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - apples,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - apples,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marmarketshare - corn,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marmarketshare - corn,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marmarketshare - corn,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marmarketshare - corn,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marmarketshare - corn,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - coconuts,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - coconuts,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - coconuts,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - coconuts,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - coconuts,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - ducks,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - ducks,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - ducks,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - ducks,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,marketshare - ducks,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,ARM,Bushel Count,L,PER_2023_Q3,2023_Q3,2023,10.070417777779
+AWS,ARM,Bushel Count,M,PER_2023_Q3,2023_Q3,2023,7.4377538823854
+AWS,ARM,Bushel Count,S,PER_2023_Q3,2023_Q3,2023,4.5513043498271
+AWS,ARM,Bushel Count,XL,PER_2023_Q3,2023_Q3,2023,13.538823854393
+AWS,ARM,Bushel Count,XS,PER_2023_Q3,2023_Q3,2023,2.0
+AWS,Intel,Node Count,L,PER_2023_Q3,2023_Q3,2023,4.5803041825085
+AWS,Intel,Node Count,M,PER_2023_Q3,2023_Q3,2023,2.1455513309885
+AWS,Intel,Node Count,S,PER_2023_Q3,2023_Q3,2023,0.5890342205323
+AWS,Intel,Node Count,XL,PER_2023_Q3,2023_Q3,2023,8.0277158785819
+AWS,Intel,Node Count,XS,PER_2023_Q3,2023_Q3,2023,0.0
+AWS,Intel,density,L,PER_2023_Q3,2023_Q3,2023,27.391289528519
+AWS,Intel,density,M,PER_2023_Q3,2023_Q3,2023,15.449878581948
+AWS,Intel,density,S,PER_2023_Q3,2023_Q3,2023,8.2790084230451
+AWS,Intel,density,XL,PER_2023_Q3,2023_Q3,2023,40.718991873118
+AWS,Intel,density,XS,PER_2023_Q3,2023_Q3,2023,3.7
+AWS,Intel,weight,L,PER_2023_Q3,2023_Q3,2023,2.8301441788352
+AWS,Intel,weight,M,PER_2023_Q3,2023_Q3,2023,1.9174410747388
+AWS,Intel,weight,S,PER_2023_Q3,2023_Q3,2023,1.0287799137919
+AWS,Intel,weight,XL,PER_2023_Q3,2023_Q3,2023,4.5133098849808
+AWS,Intel,weight,XS,PER_2023_Q3,2023_Q3,2023,0.4
+AWS,Intel,marketshare - apples,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - apples,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - apples,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - apples,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - apples,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marmarketshare - corn,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marmarketshare - corn,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marmarketshare - corn,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marmarketshare - corn,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marmarketshare - corn,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - coconuts,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - coconuts,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - coconuts,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - coconuts,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - coconuts,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - ducks,L,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - ducks,M,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - ducks,S,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - ducks,XL,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,marketshare - ducks,XS,PER_2023_Q3,2023_Q3,2023,0.2
+AWS,Intel,Bushel Count,L,PER_2023_Q3,2023_Q3,2023,10.070417777779
+AWS,Intel,Bushel Count,M,PER_2023_Q3,2023_Q3,2023,7.4377538823854
+AWS,Intel,Bushel Count,S,PER_2023_Q3,2023_Q3,2023,4.5513043498271
+AWS,Intel,Bushel Count,XL,PER_2023_Q3,2023_Q3,2023,13.538823854393
+AWS,Intel,Bushel Count,XS,PER_2023_Q3,2023_Q3,2023,2.0
+Azure,ARM,Node Count,L,PER_2023_Q3,2023_Q3,2023,4.5803041825085
+Azure,ARM,Node Count,M,PER_2023_Q3,2023_Q3,2023,2.1455513309885
+Azure,ARM,Node Count,S,PER_2023_Q3,2023_Q3,2023,0.5890342205323
+Azure,ARM,Node Count,XL,PER_2023_Q3,2023_Q3,2023,8.0277158785819
+Azure,ARM,Node Count,XS,PER_2023_Q3,2023_Q3,2023,0.0
+Azure,ARM,density,L,PER_2023_Q3,2023_Q3,2023,37.859082075827
+Azure,ARM,density,M,PER_2023_Q3,2023_Q3,2023,21.580414219895
+Azure,ARM,density,S,PER_2023_Q3,2023_Q3,2023,12.851991488898
+Azure,ARM,density,XL,PER_2023_Q3,2023_Q3,2023,57.991075852832
+Azure,ARM,density,XS,PER_2023_Q3,2023_Q3,2023,5.0314393532
+Azure,ARM,weight,L,PER_2023_Q3,2023_Q3,2023,4.0852324519785
+Azure,ARM,weight,M,PER_2023_Q3,2023_Q3,2023,2.3888348131083
+Azure,ARM,weight,S,PER_2023_Q3,2023_Q3,2023,1.4380859210899
+Azure,ARM,weight,XL,PER_2023_Q3,2023_Q3,2023,7.3098872178824
+Azure,ARM,weight,XS,PER_2023_Q3,2023_Q3,2023,0.5580485848
+Azure,ARM,marketshare - apples,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - apples,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - apples,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - apples,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - apples,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marmarketshare - corn,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marmarketshare - corn,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marmarketshare - corn,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marmarketshare - corn,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marmarketshare - corn,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - coconuts,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - coconuts,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - coconuts,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - coconuts,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - coconuts,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - ducks,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - ducks,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - ducks,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - ducks,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,marketshare - ducks,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,ARM,Bushel Count,L,PER_2023_Q3,2023_Q3,2023,10.070417777779
+Azure,ARM,Bushel Count,M,PER_2023_Q3,2023_Q3,2023,7.4377538823854
+Azure,ARM,Bushel Count,S,PER_2023_Q3,2023_Q3,2023,4.5513043498271
+Azure,ARM,Bushel Count,XL,PER_2023_Q3,2023_Q3,2023,13.538823854393
+Azure,ARM,Bushel Count,XS,PER_2023_Q3,2023_Q3,2023,2.0
+Azure,Intel,Node Count,L,PER_2023_Q3,2023_Q3,2023,4.5803041825085
+Azure,Intel,Node Count,M,PER_2023_Q3,2023_Q3,2023,2.1455513309885
+Azure,Intel,Node Count,S,PER_2023_Q3,2023_Q3,2023,0.5890342205323
+Azure,Intel,Node Count,XL,PER_2023_Q3,2023_Q3,2023,8.0277158785819
+Azure,Intel,Node Count,XS,PER_2023_Q3,2023_Q3,2023,0.0
+Azure,Intel,density,L,PER_2023_Q3,2023_Q3,2023,37.859082075827
+Azure,Intel,density,M,PER_2023_Q3,2023_Q3,2023,21.580414219895
+Azure,Intel,density,S,PER_2023_Q3,2023_Q3,2023,12.851991488898
+Azure,Intel,density,XL,PER_2023_Q3,2023_Q3,2023,57.991075852832
+Azure,Intel,density,XS,PER_2023_Q3,2023_Q3,2023,5.0314393532
+Azure,Intel,weight,L,PER_2023_Q3,2023_Q3,2023,4.0852324519785
+Azure,Intel,weight,M,PER_2023_Q3,2023_Q3,2023,2.3888348131083
+Azure,Intel,weight,S,PER_2023_Q3,2023_Q3,2023,1.4380859210899
+Azure,Intel,weight,XL,PER_2023_Q3,2023_Q3,2023,7.3098872178824
+Azure,Intel,weight,XS,PER_2023_Q3,2023_Q3,2023,0.5580485848
+Azure,Intel,marketshare - apples,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - apples,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - apples,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - apples,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - apples,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marmarketshare - corn,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marmarketshare - corn,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marmarketshare - corn,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marmarketshare - corn,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marmarketshare - corn,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - coconuts,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - coconuts,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - coconuts,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - coconuts,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - coconuts,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - ducks,L,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - ducks,M,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - ducks,S,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - ducks,XL,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,marketshare - ducks,XS,PER_2023_Q3,2023_Q3,2023,0.2
+Azure,Intel,Bushel Count,L,PER_2023_Q3,2023_Q3,2023,10.070417777779
+Azure,Intel,Bushel Count,M,PER_2023_Q3,2023_Q3,2023,7.4377538823854
+Azure,Intel,Bushel Count,S,PER_2023_Q3,2023_Q3,2023,4.5513043498271
+Azure,Intel,Bushel Count,XL,PER_2023_Q3,2023_Q3,2023,13.538823854393
+Azure,Intel,Bushel Count,XS,PER_2023_Q3,2023_Q3,2023,2.0
+AWS,ARM,Node Count,L,PER_2023_Q4,2023_Q4,2023,4.5803041825085
+AWS,ARM,Node Count,M,PER_2023_Q4,2023_Q4,2023,2.1455513309885
+AWS,ARM,Node Count,S,PER_2023_Q4,2023_Q4,2023,0.5890342205323
+AWS,ARM,Node Count,XL,PER_2023_Q4,2023_Q4,2023,8.0277158785819
+AWS,ARM,Node Count,XS,PER_2023_Q4,2023_Q4,2023,0.0
+AWS,ARM,density,L,PER_2023_Q4,2023_Q4,2023,27.391289528519
+AWS,ARM,density,M,PER_2023_Q4,2023_Q4,2023,15.449878581948
+AWS,ARM,density,S,PER_2023_Q4,2023_Q4,2023,8.2790084230451
+AWS,ARM,density,XL,PER_2023_Q4,2023_Q4,2023,40.718991873118
+AWS,ARM,density,XS,PER_2023_Q4,2023_Q4,2023,3.7
+AWS,ARM,weight,L,PER_2023_Q4,2023_Q4,2023,2.8301441788352
+AWS,ARM,weight,M,PER_2023_Q4,2023_Q4,2023,1.9174410747388
+AWS,ARM,weight,S,PER_2023_Q4,2023_Q4,2023,1.0287799137919
+AWS,ARM,weight,XL,PER_2023_Q4,2023_Q4,2023,4.5133098849808
+AWS,ARM,weight,XS,PER_2023_Q4,2023_Q4,2023,0.4
+AWS,ARM,marketshare - apples,L,PER_2023_Q4,2023_Q4,2023,0.2
+AWS,ARM,marketshare - apples,M,PER_2023_Q4,2023_Q4,2023,0.2
+AWS,ARM,marketshare - apples,S,PER_2023_Q4,2023_Q4,2023,0.2
+AWS,ARM,marketshare - apples,XL,PER_2023_Q4,2023_Q4,2023,0.2
+AWS,ARM,marketshare - apples,XS,PER_2023_Q4,2023_Q4,2023,0.2
